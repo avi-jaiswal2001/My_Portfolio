@@ -29,6 +29,7 @@ nav .logo {
     color: #00AEEF;
     font-size: 1.5rem;
     font-weight: 600;
+    cursor: pointer;
 }
 
 nav ul {
@@ -219,4 +220,12 @@ form button:hover {
 
 .social-icons a:hover {
     color: #008CBD;
+}
+
+.projects-card-images{
+    width: -webkit-fill-available;
+}
+
+.education-card-details{
+    font-size: 12px;
 }
